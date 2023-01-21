@@ -1,11 +1,7 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 def word_guessing_game():
-#     from IPython.display import display, Markdown, Latex
+
     print(""" 
 ######################################################################################################
 #    This is a word guessing game. Users are given 3 chances to guess three secret words correctly.  #
